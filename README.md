@@ -18,7 +18,7 @@ Les réalisations effectuées sont :
 
 ## **Résultats** :
 Ce que j'ai appris :
-- Déployer différents algorithme de classification
+- Déployer différents algorithmes de classification
 - Optimiser les paramètres d'un algorithme
 - Créer une fonction pour mettre à disposition une application permettant d'identifier la nature des billets
 - Communiquer les résulats à l'aide d'un support de présentation
