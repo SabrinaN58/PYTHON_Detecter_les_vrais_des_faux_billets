@@ -1,4 +1,6 @@
 # Détection des vrais et faux billets
+![ibrahim-boran-kkACMU0GYko-unsplash](https://github.com/user-attachments/assets/a2dc0eb3-1a9b-436e-a869-e6da5bfa6177)
+
 
 ## **Contexte** :
 L'entreprise dans laquelle je travaille vient de décrocher un contrat avec l'Organisation nationale de lutte contre le faux-monnayage (ONCFM). Une organisation publique qui a pour objectif de mettre en place des méthodes d'identification des contrefaçons des billets en euros. Dans le cadre de cette lutte, cette organisation souhaite mettre en place un algorithme qui soit capable de différencier automatiquement les vrais des faux billets.
